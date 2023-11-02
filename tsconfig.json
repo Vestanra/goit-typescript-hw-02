@@ -14,5 +14,5 @@
     "target": "es2019",
     "sourceMap": true
   },
-  "include": ["**/*.ts"]
+  "include": ["**/*.ts", "src/generic/index.js"]
 }
